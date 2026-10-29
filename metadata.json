@@ -1,0 +1,7 @@
+{
+  "name": "Vantage Sales Analytics",
+  "description": "Interactive sales order analysis with multi-line quarterly revenue trends, regional pivot breakdown, and grounded AI variance reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for Sales Analytics dashboard featuring CSV upload, multi-line quarterly revenue trend chart, regional pivot data table, deterministic Q2-to-Q3 variance calculations, and a server-side Gemini AI 3-sentence summary grounded strictly in calculated figures.",
+  "updatedAt":  "2026-10-29T01:08:31.969110371Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
