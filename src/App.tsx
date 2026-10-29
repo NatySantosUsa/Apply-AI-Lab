@@ -382,7 +382,7 @@ export default function App() {
       <footer className="border-t border-slate-200 bg-white py-6 mt-auto">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-500">
           <div>
-            Vantage Sales Analytics · Verifiable Regional Revenue Intelligence
+            I love my gatito · Verifiable Regional Revenue Intelligence
           </div>
           <div className="flex items-center gap-4">
             <span className="font-mono">RFC-4180 Compliant</span>

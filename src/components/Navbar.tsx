@@ -22,7 +22,7 @@ export const Navbar: React.FC<NavbarProps> = ({
           <BarChart3 className="w-5 h-5" />
         </div>
         <span className="text-lg font-bold tracking-tight text-slate-900 whitespace-nowrap">
-          Vantage Sales Analytics
+          I love my gatito
         </span>
       </div>
 
